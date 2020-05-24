@@ -1,5 +1,7 @@
 TEAM BruteForce - Crack the Covid-19 Crisis Hackathon
+
 Our solution consist of two parts:
+
 1.	First part is a remote education android app which resolves all the problem stated above. It contains all the features a student will want in his/her app. We tried to involve every activity that we use to do in offline college times in this App.
 It consists of Video call functionality with a special feature of blocking students who are speaking abusive or bad words during a live session. The student will be reported to the admin of the app and all the records of the blocked student will be sent to the admin app. Admin can unblock the student again. 
 Then our app contains a chat room for each classroom a student is enrolled in, it will allow the students and teachers to communicate as they use to do in Offline College.
