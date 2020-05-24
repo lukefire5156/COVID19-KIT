@@ -16,4 +16,6 @@ Due to Covid19 treatment people are becoming weak so this robot can act as a whe
 Also we devised an IOT device that will measure the temperature and heartbeat of the patient and will transfer all this data to the cloud which is connected with an App that will be updated on a real-time basis and will give alerts to doctor. This will help in social distancing treatment.
 Through our Image processing algorithm, we will allow the patients to make some face gesture and through these gestures, an alarm will ring in the doctor’s phone having our android App.
 
-Along with this we have a covid19 case detector ( https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/COVID-19-TRACKER-ELIO/COVID19DASHBOARD?publish=yes ) .
+Along with this we have a covid19 case detector using Tableau for use for friends and family, wherein you can track data from January 1 2020 to the present date. Find it here at our Tableau public ( https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/COVID-19-TRACKER-ELIO/COVID19DASHBOARD?publish=yes ) .
+
+![here](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/COVID-19-dashboard-Tableau/screenshot.PNG)
