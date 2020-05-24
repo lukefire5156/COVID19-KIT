@@ -8,6 +8,10 @@ Then our app contains a **chat room** for each classroom a student is enrolled i
 Then comes the **appointment feature**. Before contacting any teacher we have to make an appointment with him/her to ask for their time. So our App includes this cool feature of appointment for the students. This reduces the chaos and brings the working thing so that follows proper protocol.
 Teachers wanted an invigilation system to invigilate students during the test. In our App we provided this feature by **camera proctored examination feature**. Under this a teacher can proctor all students through their webcams while the students are giving tests, also the teacher can pass their voice in the whole class to convey messages during tests.
 Also our app has a feature of **assignment submission**. The teachers can upload the assignment questions along with the due date and students on the other hand can upload the solutions of these tests on the app itself.
+
+### Find video for the demo of our app
+[click me to watch the app video](https://www.youtube.com/watch?v=hOWBRNEWVxc&feature=youtu.be)
+
 ![1](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161511.png) ![2](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161529.png) ![3](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161545.png)
 ![4](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161550.png)
 ![5](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161601.png)
@@ -35,6 +39,6 @@ Through our Image processing algorithm, we will allow the patients to make some 
 Using Tableau we have also made a **Trump Tweet Analysis Active** dashboard which the Twitterati can use during the COVID-19 pandemic to learn about the latest happening and tweets from POTUS Donald Trump. The frequency of the tweet is monitored along with identifying keywords like 'coronavirus', 'covid19', 'democrats' , 'Biden', 'Obama' etc. The same technology can be used to track tweets realted to domestic violence, abuse during these chaotic and quarantined times to promote a sense of security, as Tableau provided smart technology with its unique data and visualising functionalities. 
 Find it on tableau public [here](https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/trump_Tweets_Elio_Jordan_Lopes/TrumpTwitterDashboard?publish=yes)
 
-![here](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/COVID-19-dashboard-Tableau/screenshot.PNG)
+![here](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/COVID-19-dashboard-Tableau/screenshot.PNG =250x250)
 
-![here](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/COVID-19-dashboard-Tableau/trump_workbook.PNG)
+![here](https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/COVID-19-dashboard-Tableau/trump_workbook.PNG =250x250)
