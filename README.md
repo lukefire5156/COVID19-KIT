@@ -15,4 +15,5 @@ Due to Covid19 treatment people are becoming weak so this robot can act as a whe
  
 Also we devised an IOT device that will measure the temperature and heartbeat of the patient and will transfer all this data to the cloud which is connected with an App that will be updated on a real-time basis and will give alerts to doctor. This will help in social distancing treatment.
 Through our Image processing algorithm, we will allow the patients to make some face gesture and through these gestures, an alarm will ring in the doctor’s phone having our android App.
-Along with this we have a covid19 case detector.
+
+Along with this we have a covid19 case detector ( https://public.tableau.com/profile/elio.jordan.lopes#!/vizhome/COVID-19-TRACKER-ELIO/COVID19DASHBOARD?publish=yes ) .
