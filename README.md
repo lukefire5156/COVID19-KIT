@@ -1,4 +1,4 @@
-# TEAM BruteForce - Crack the Covid-19 Crisis Hackathon
+# THE COVID-19 KIT
 
 ### Our solution consist of three parts:
 
