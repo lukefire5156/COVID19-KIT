@@ -14,6 +14,11 @@ Also our app has a feature of **assignment submission**. The teachers can upload
 ### Find video for the demo of our app
 [click me to watch the app video](https://www.youtube.com/watch?v=hOWBRNEWVxc&feature=youtu.be)
 
+## FLOW CHART
+![here](https://github.com/lukefire5156/COVID19-KIT/blob/master/ScreenShots/FLOW%20DIAGRAM.png)
+
+
+
 <img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161511.png" width="450" height="650">
 <img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161529.png" width="450" height="650"> 
 <img src="https://github.com/lukefire5156/TEAM-BruteForce---Crack-the-Covid-19-Crisis-Hackathon/blob/master/ScreenShots/Screenshot_20200524-161545.png" width="450" height="650">
